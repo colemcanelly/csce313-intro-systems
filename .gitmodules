@@ -1,0 +1,42 @@
+[submodule "pas/pa1"]
+	path = pas/pa1
+	url = git@github.com:CSCE313-Tyagi-FA22/pa1-client-server-ipc-named-pipes-colemcanelly.git
+[submodule "pas/pa2"]
+	path = pas/pa2
+	url = git@github.com:CSCE313-Tyagi-FA22/pa2-aggie-shell-colemcanelly.git
+[submodule "pas/pa3"]
+	path = pas/pa3
+	url = git@github.com:CSCE313-Tyagi-FA22/pa3-threading-colemcanelly.git
+[submodule "labs/lab3"]
+	path = labs/lab3
+	url = git@github.com:CSCE313-Tyagi-FA22/le3-round-robin-scheduler-colemcanelly.git
+[submodule "labs/lab4"]
+	path = labs/lab4
+	url = git@github.com:CSCE313-Tyagi-FA22/le4-cooking-with-signals-colemcanelly.git
+[submodule "labs/lab5"]
+	path = labs/lab5
+	url = git@github.com:CSCE313-Tyagi-FA22/le5-concurrency-and-money-colemcanelly.git
+[submodule "labs/lab6"]
+	path = labs/lab6
+	url = git@github.com:CSCE313-Tyagi-FA22/le6-threaded-data-entry-colemcanelly.git
+[submodule "sas/sa1"]
+	path = sas/sa1
+	url = git@github.com:CSCE313-Tyagi-FA22/sa1-problem-a-colemcanelly.git
+[submodule "sas/sa3"]
+	path = sas/sa3
+	url = git@github.com:CSCE313-Tyagi-FA22/sa3-section2-colemcanelly.git
+[submodule "labs/lab0"]
+	path = labs/lab0
+	url = git@github.com:CSCE313-Tyagi-FA22/le0-environment-setup-colemcanelly.git
+[submodule "labs/demos"]
+	path = labs/demos
+	url = git@github.com:CSCE313-Tyagi-FA22/lab-demo-basic-client-server-intro-colemcanelly.git
+[submodule "labs/lab1"]
+	path = labs/lab1
+	url = git@github.com:CSCE313-Tyagi-FA22/le1-intro-to-unnamed-pipes-colemcanelly.git
+[submodule "pas/pa4"]
+	path = pas/pa4
+	url = git@github.com:CSCE313-Tyagi-FA22/pa4-the-server-moved-out-colemcanelly.git
+[submodule "labs/lab2"]
+	path = labs/lab2
+	url = git@github.com:CSCE313-Tyagi-FA22/le2-basic-shell-colemcanelly.git
