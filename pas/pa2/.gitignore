@@ -1,0 +1,53 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+!Custom.o
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+# Static libraries for extra credit
+# !libreadline*
+# !libhistory*
+
+# Executables
+*.exe
+*.out
+*.app
+shell
+
+# testing files
+test-files/
+a
+b
+test.txt
+output.txt
+out.trace
+
+# IDE and temp files
+.vscode/
+*~
+*.dSYM
+
+# Report Files
+report/

@@ -25,6 +25,9 @@
 [submodule "sas/sa3"]
 	path = sas/sa3
 	url = git@github.com:CSCE313-Tyagi-FA22/sa3-section2-colemcanelly.git
+[submodule "labs/lab0"]
+	path = labs/lab0
+	url = git@github.com:CSCE313-Tyagi-FA22/le0-environment-setup-colemcanelly.git
 [submodule "labs/lab1"]
 	path = labs/lab1
 	url = git@github.com:CSCE313-Tyagi-FA22/le1-intro-to-unnamed-pipes-colemcanelly.git

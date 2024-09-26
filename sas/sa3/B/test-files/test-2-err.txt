@@ -1,0 +1,10 @@
+Consumers: 4
+ Consumer 1 created
+ Consumer 2 created
+ Consumer 3 created
+ Consumer 4 created
+ Consumer 1 exited
+ Consumer 2 exited
+ Consumer 3 exited
+ Consumer 4 exited
+Bye!

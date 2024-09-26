@@ -1,0 +1,22 @@
+Consumers: 10
+ Consumer 1 created
+ Consumer 2 created
+ Consumer 3 created
+ Consumer 4 created
+ Consumer 5 created
+ Consumer 6 created
+ Consumer 7 created
+ Consumer 8 created
+ Consumer 9 created
+ Consumer 10 created
+ Consumer 1 exited
+ Consumer 2 exited
+ Consumer 3 exited
+ Consumer 4 exited
+ Consumer 5 exited
+ Consumer 6 exited
+ Consumer 7 exited
+ Consumer 8 exited
+ Consumer 9 exited
+ Consumer 10 exited
+Bye!

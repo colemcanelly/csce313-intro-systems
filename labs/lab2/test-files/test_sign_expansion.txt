@@ -1,0 +1,4 @@
+cat /proc/$(ps|grep bash|head -1|awk '{print $1}')/status
+$(echo cat) /$(echo proc)/$(ps|grep bash|head -1|awk '{print $1}')/$(echo status)
+cat /proc/$(ps|grep $(echo bash)|head -1|awk '{print $1}')/status
+exit

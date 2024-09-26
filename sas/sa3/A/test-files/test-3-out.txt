@@ -1,0 +1,3 @@
+Threads to create: 100
+Elements to sum: 400
+Result sum: 229145
